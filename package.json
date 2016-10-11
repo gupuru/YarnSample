@@ -1,0 +1,18 @@
+{
+  "name": "yarn_sample",
+  "version": "1.0.0",
+  "description": "yarn's sample",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/gupuru/YarnSample.git",
+    "type": "git"
+  },
+  "author": "gupuru",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.3.2"
+  },
+  "devDependencies": {
+    "jest-cli": "^16.0.1"
+  }
+}
